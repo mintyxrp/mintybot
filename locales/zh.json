@@ -1,0 +1,10 @@
+{
+  "start": "🧔 *欢迎使用 BeardNFT Bot！*\\n您的 XRP NFT 实时追踪助手。\\n\\n使用 /track <id 或 链接> 开始。",
+  "help": "ℹ️ *如何使用 BeardNFT Bot*\\n\\n1) /track <id 或 链接> — 开始追踪\\n2) /list — 显示追踪的收藏\\n3) /stop — 停止追踪\\n4) /language <code> — 切换语言",
+  "trackStart": "✅ 已开始追踪 *%s*",
+  "alreadyTrack": "⚠️ *%s* 已在追踪中",
+  "stop": "🛑 已停止此聊天的所有追踪。",
+  "list": "📋 当前追踪的收藏：",
+  "noList": "❌ 你还没有追踪任何收藏。",
+  "langSet": "✅ 语言已设置为 %s。"
+}

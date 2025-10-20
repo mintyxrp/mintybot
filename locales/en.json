@@ -1,0 +1,10 @@
+{
+  "start": "🧔 *Welcome to BeardNFT Bot!*\nYour personal assistant for tracking XRP NFTs in real time.\n\nThis bot notifies you instantly when your NFTs on XRP.Cafe are:\n\n💰 Sold\n🏷️ Listed\n🤝 Offered\n✨ Minted\n🔥 Burned\n\nYou can:\n• Track one or multiple NFT collections\n• Get notifications in groups, channels, or DMs\n• Filter events by marketplace (XRP.Cafe only)\n• Choose your language preference\n\nTo get started, use /track <collection_id or link> or tap the Track button.\n\nNeed help? Use /help anytime.",
+  "help": "ℹ️ *How to use BeardNFT Bot*\n\n1) Use /track <collection_id or link> — Start tracking a collection.\n2) Use /list — Show collections you are tracking.\n3) Use /stop — Stop all tracking for this chat.\n4) Use /language <code> — Change bot language for your chat.\n\nSupported language codes: en, id, fr, de, es, ru, ja, zh",
+  "trackStart": "✅ Started tracking *%s*",
+  "alreadyTrack": "⚠️ Already tracking *%s*",
+  "stop": "🛑 All tracking stopped for this chat.",
+  "list": "📋 Currently tracking:",
+  "noList": "❌ You are not tracking any collection yet.",
+  "langSet": "✅ Language set to %s."
+}

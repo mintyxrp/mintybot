@@ -1,0 +1,10 @@
+{
+  "start": "🧔 *Willkommen beim BeardNFT Bot!*\\nDein Assistent zum Verfolgen von XRP NFTs in Echtzeit.\\n\\nBenutze /track <id oder link> um zu starten.",
+  "help": "ℹ️ *So verwendest du BeardNFT Bot*\\n\\n1) /track <id oder link> — Überwachung starten\\n2) /list — Zeige überwachte Sammlungen\\n3) /stop — Überwachung beenden\\n4) /language <code> — Sprache ändern",
+  "trackStart": "✅ Überwachung gestartet für *%s*",
+  "alreadyTrack": "⚠️ *%s* wird bereits überwacht",
+  "stop": "🛑 Alle Überwachungen für diesen Chat gestoppt.",
+  "list": "📋 Überwachte Sammlungen:",
+  "noList": "❌ Du überwachst keine Sammlungen.",
+  "langSet": "✅ Sprache gesetzt auf %s."
+}

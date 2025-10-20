@@ -1,0 +1,10 @@
+{
+  "start": "🧔 *Selamat datang di BeardNFT Bot!*\\nAsisten pribadi Anda untuk memantau NFT XRP secara real-time.\\n\\nGunakan /track <id atau link> untuk memulai.",
+  "help": "ℹ️ *Cara menggunakan BeardNFT Bot*\\n\\n1) /track <id atau link> — Mulai memantau\\n2) /list — Daftar koleksi yang dipantau\\n3) /stop — Hentikan semua pemantauan\\n4) /language <code> — Ganti bahasa",
+  "trackStart": "✅ Mulai memantau *%s*",
+  "alreadyTrack": "⚠️ Sudah memantau *%s*",
+  "stop": "🛑 Semua pemantauan dihentikan untuk chat ini.",
+  "list": "📋 Koleksi yang dipantau:",
+  "noList": "❌ Anda belum memantau koleksi apa pun.",
+  "langSet": "✅ Bahasa diatur ke %s."
+}
